@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Suraj, and I'm a developer and writer, interested in building useful tools.
+
+- 🔭 Learn more about me
+  - my [newsletter](https://www.surajc.com/)
+  - what i'm doing [now](https://www.surajc.com/now/)
+- 🌱 I recently built a web app to suggest recipes based on ingredients at hand, check it out [here](https://github.com/surajcdry/cookwiththis)
+- 📫 How to reach me: suraj@surajc.com 
+
 <!--
 **surajcdry/surajcdry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,6 +8,9 @@ My name is Suraj, and I'm a developer and writer, interested in building useful 
 - 🌱 I recently built a web app to suggest recipes based on ingredients at hand, check it out [here](https://github.com/surajcdry/cookwiththis)
 - 📫 How to reach me: suraj@surajc.com 
 
+
+![](https://komarev.com/ghpvc/?username=surajcdry)
+
 <!--
 **surajcdry/surajcdry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

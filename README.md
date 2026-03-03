@@ -5,7 +5,7 @@ My name is Suraj, and I'm a developer and writer, interested in building useful 
 - 🔭 Learn more about me
   - my [newsletter](https://www.surajc.com/)
   - what i'm doing [now](https://www.surajc.com/now/)
-- 🌱 I recently built a web app to suggest recipes based on ingredients at hand, check it out [here](https://github.com/surajcdry/cookwiththis)
+- 🌱 I recently built a way to stop link-spamming in chat, check it out [here](https://www.theprofilehub.com/)
 - 📫 How to reach me: suraj@surajc.com 
 
 

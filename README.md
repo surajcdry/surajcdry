@@ -3,7 +3,7 @@
 My name is Suraj, and I'm a developer and writer interested in building useful tools.
 
 - 🔭 Learn more about me
-  - my [resume](https://www.surajc.com/files/Suraj's%20Resume.pdf)
+  - my [resume](https://assets.surajc.com/files/Suraj's%20Resume.pdf)
   - my [newsletter](https://www.surajc.com/)
   - what i'm doing [now](https://www.surajc.com/now/)
 - 🌱 I recently built a way to stop link-spamming in chat; check it out [here](https://www.theprofilehub.com/)
